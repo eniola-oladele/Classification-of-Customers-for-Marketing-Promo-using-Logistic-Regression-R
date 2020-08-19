@@ -1,3 +1,3 @@
 # Classification-of-Customers-for-Marketing-Promo-using-Logistic-Regression-R
 
-https://github.com/teamindelible
+Can also be found here - https://github.com/teamindelible
